@@ -1,0 +1,36 @@
+ .map-area{
+    margin-top: 0;
+    width: 60%; 
+    float: right;  
+} 
+.direction{
+    width: 30%;
+    float: left;
+}
+.road-direction{
+    background-color: #f0eded; 
+    margin-left: 100px; 
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px
+}
+.input-area{
+    padding: 10px 20px;
+    border: none;
+    margin: 12px;
+}
+.search-btn{
+    background-color: tomato;
+    color: white;
+    padding: 12px 50px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 10px;
+}
+.input-label{
+    font-size: large;
+    font-weight: bold; 
+    color: gray
+}

@@ -1,0 +1,51 @@
+.sign-up{
+    background-color: #f0eded;
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 500px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px
+}
+.name-area{
+    display: inline;
+}
+.form-control{
+    padding: 10px;
+    margin-left: 90px;
+} 
+.check-area{
+    display: inline; 
+    margin-left: 45%;
+}
+.submit-control{
+    background-color: tomato;
+    color: white;
+    padding: 12px 50px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.signIn-area{
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    left: 39%;;
+} 
+.signIn-btn{ 
+    background-color: #3c1ec4;
+    color: white;
+    padding: 12px 50px;
+    border: none;
+    margin: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.ggl-btn{
+    background-color: #acacac;
+    margin-top: 10px;
+    color: #0c0808;
+    border: 1px solid gray;
+    padding: 12px 56px;
+}

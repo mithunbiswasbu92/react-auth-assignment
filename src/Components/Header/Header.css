@@ -1,0 +1,45 @@
+.main-header { 
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+}
+.main-header nav {
+    display: inline;
+}
+.main-nav-left {
+    width: 40%;
+    padding-left: 50px;
+    float: left; 
+    margin-top: -15px;
+}
+.main-nav-logo{
+    text-decoration: none;
+    color: #0a0909;
+    font-size: 35px;
+}
+.main-nav-right {
+    width: 50%;
+    float: right;
+    padding-top: 0;
+}
+.nav-ul li{
+    float: left;
+    font-size: large;
+    list-style-type: none;
+}
+.nav-li {
+    text-decoration: none;
+    display: inline;
+    padding: 8px 16px;
+    color: gray;
+    margin: 8px;
+    font-weight: bold;
+}
+.logIn-btn {
+    background-color: tomato;
+    color: white;
+    border-radius: 8px; 
+    padding: 4px 15px 6px 15px;
+    vertical-align: middle;
+    margin: 10px;
+}
